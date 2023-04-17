@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/[Developer]/1 Single Json/Single Josn.unity
+    guid: 68b9f9029b8b14b3f9cd1397b84b1dc4
+  - enabled: 1
+    path: Assets/[Developer]/2 JsonLogin/JsonLogin.unity
+    guid: 5ae1220c9f3124da29a262a70ef9a21a
+  - enabled: 1
+    path: Assets/[Developer]/3 SimpleJsonMulti/SimpleJsonMulti.unity
+    guid: 5da0b6a448438416f9cbbd15ee13d922
+  - enabled: 1
+    path: Assets/[Developer]/4 SimpleJsonMultiNode/SimpleJsonMultiNode.unity
+    guid: b0668a189efbb4e23b7b700658fb2906
+  - enabled: 1
+    path: Assets/[Developer]/5 MultiJsonServer/MultiJson.unity
+    guid: 932cea96227ec4bf59876798a5c9e950
+  - enabled: 1
+    path: Assets/[Developer]/6 MultiJaonManyServer/MultiJsonMany.unity
+    guid: c2492d43dbd824ca5ad1308c09194aed
+  m_configObjects: {}
